@@ -37,7 +37,7 @@ let sessionBest = {
     incorrect: 0,
     percentage: 0
 };
-let currentLibrary = 'JavaScript';
+let currentLibrary = 'SPN1120';
 let currentQuestions = [];
 let answeredQuestions = [];
 
