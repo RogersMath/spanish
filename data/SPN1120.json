@@ -1,0 +1,450 @@
+[
+  {
+    "questionId": "SPN1120001",
+    "question": "Which of the following is the correct way to say 'Hello, how are you?' in Spanish?",
+    "answers": [
+      "Hola, ¿cómo estás?",
+      "Adiós, ¿qué tal?",
+      "Buenas noches, ¿cómo eres?",
+      "Hola, ¿dónde estás?"
+    ],
+    "correct": "Hola, ¿cómo estás?",
+    "explanation": "The correct greeting in Spanish is 'Hola, ¿cómo estás?' which translates to 'Hello, how are you?' in English.",
+    "category": "Greetings",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120002",
+    "question": "What is the Spanish word for 'cat'?",
+    "answers": [
+      "Perro",
+      "Gato",
+      "Pájaro",
+      "Ratón"
+    ],
+    "correct": "Gato",
+    "explanation": "The Spanish word for 'cat' is 'gato'. 'Perro' means dog, 'pájaro' means bird, and 'ratón' means mouse.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120003",
+    "question": "Which of the following is the correct conjugation of the verb 'hablar' (to speak) in the present tense for 'yo' (I)?",
+    "answers": [
+      "Hablo",
+      "Hablas",
+      "Habla",
+      "Hablamos"
+    ],
+    "correct": "Hablo",
+    "explanation": "The correct conjugation of 'hablar' in the present tense for 'yo' (I) is 'hablo'. This is a regular -ar verb conjugation.",
+    "category": "Verb Conjugation",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120004",
+    "question": "What is the correct way to say 'Good night' in Spanish?",
+    "answers": [
+      "Buenos días",
+      "Buenas tardes",
+      "Buenas noches",
+      "Buen día"
+    ],
+    "correct": "Buenas noches",
+    "explanation": "'Buenas noches' is the correct way to say 'Good night' in Spanish. 'Buenos días' means 'Good morning', 'Buenas tardes' means 'Good afternoon', and 'Buen día' means 'Good day'.",
+    "category": "Greetings",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120005",
+    "question": "Which of the following is NOT a Spanish article?",
+    "answers": [
+      "El",
+      "La",
+      "Los",
+      "Le"
+    ],
+    "correct": "Le",
+    "explanation": "'Le' is not a Spanish article. The Spanish definite articles are 'el' (masculine singular), 'la' (feminine singular), 'los' (masculine plural), and 'las' (feminine plural).",
+    "category": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120006",
+    "question": "What is the Spanish word for 'Monday'?",
+    "answers": [
+      "Martes",
+      "Miércoles",
+      "Lunes",
+      "Jueves"
+    ],
+    "correct": "Lunes",
+    "explanation": "The Spanish word for 'Monday' is 'Lunes'. 'Martes' is Tuesday, 'Miércoles' is Wednesday, and 'Jueves' is Thursday.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120007",
+    "question": "Which of the following is the correct way to say 'I love you' in Spanish?",
+    "answers": [
+      "Te quiero",
+      "Te amo",
+      "Te adoro",
+      "All of the above"
+    ],
+    "correct": "All of the above",
+    "explanation": "All of these phrases can be used to express 'I love you' in Spanish, with slightly different connotations. 'Te quiero' is commonly used for friends and family, 'Te amo' is more romantic, and 'Te adoro' is a strong form of affection.",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120008",
+    "question": "What is the correct Spanish translation for the color 'red'?",
+    "answers": [
+      "Azul",
+      "Verde",
+      "Rojo",
+      "Amarillo"
+    ],
+    "correct": "Rojo",
+    "explanation": "The correct Spanish word for 'red' is 'rojo'. 'Azul' means blue, 'verde' means green, and 'amarillo' means yellow.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120009",
+    "question": "Which of the following is the correct way to form the plural of 'lápiz' (pencil)?",
+    "answers": [
+      "Lápizes",
+      "Lápices",
+      "Lápizs",
+      "Lápiz"
+    ],
+    "correct": "Lápices",
+    "explanation": "The correct plural form of 'lápiz' is 'lápices'. Words ending in 'z' change to 'ces' in the plural form in Spanish.",
+    "category": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120010",
+    "question": "What is the Spanish equivalent of the English phrase 'You're welcome'?",
+    "answers": [
+      "Gracias",
+      "Por favor",
+      "De nada",
+      "Lo siento"
+    ],
+    "correct": "De nada",
+    "explanation": "The Spanish equivalent of 'You're welcome' is 'De nada'. 'Gracias' means 'thank you', 'por favor' means 'please', and 'lo siento' means 'I'm sorry'.",
+    "category": "Expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120011",
+    "question": "Which of the following is NOT a Spanish pronoun?",
+    "answers": [
+      "Yo",
+      "Tú",
+      "Él",
+      "Su"
+    ],
+    "correct": "Su",
+    "explanation": "'Su' is not a pronoun; it's a possessive adjective meaning 'his', 'her', 'its', or 'their'. 'Yo' (I), 'Tú' (you informal), and 'Él' (he) are all subject pronouns in Spanish.",
+    "category": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120012",
+    "question": "What is the correct way to say 'What's your name?' in Spanish?",
+    "answers": [
+      "¿Cómo te llamas?",
+      "¿Cuál es tu nombre?",
+      "¿Quién eres?",
+      "Both A and B"
+    ],
+    "correct": "Both A and B",
+    "explanation": "Both '¿Cómo te llamas?' and '¿Cuál es tu nombre?' are correct ways to ask 'What's your name?' in Spanish. '¿Quién eres?' means 'Who are you?'",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120013",
+    "question": "Which of the following is the correct conjugation of the verb 'ser' (to be) in the present tense for 'ellos' (they)?",
+    "answers": [
+      "Es",
+      "Son",
+      "Somos",
+      "Eres"
+    ],
+    "correct": "Son",
+    "explanation": "The correct conjugation of 'ser' in the present tense for 'ellos' (they) is 'son'. This is an irregular verb conjugation.",
+    "category": "Verb Conjugation",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120014",
+    "question": "What is the Spanish word for 'book'?",
+    "answers": [
+      "Libro",
+      "Cuaderno",
+      "Lápiz",
+      "Bolígrafo"
+    ],
+    "correct": "Libro",
+    "explanation": "The Spanish word for 'book' is 'libro'. 'Cuaderno' means notebook, 'lápiz' means pencil, and 'bolígrafo' means pen.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120015",
+    "question": "Which of the following is the correct way to say 'I don't understand' in Spanish?",
+    "answers": [
+      "No comprendo",
+      "No entiendo",
+      "No sé",
+      "Both A and B"
+    ],
+    "correct": "Both A and B",
+    "explanation": "Both 'No comprendo' and 'No entiendo' are correct ways to say 'I don't understand' in Spanish. 'No sé' means 'I don't know'.",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120016",
+    "question": "What is the Spanish word for the number 'one'?",
+    "answers": [
+      "Dos",
+      "Tres",
+      "Uno",
+      "Cuatro"
+    ],
+    "correct": "Uno",
+    "explanation": "The Spanish word for the number 'one' is 'uno'. 'Dos' means two, 'tres' means three, and 'cuatro' means four.",
+    "category": "Numbers",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120017",
+    "question": "Which of the following is the correct way to say 'Goodbye' in Spanish?",
+    "answers": [
+      "Hola",
+      "Adiós",
+      "Gracias",
+      "Por favor"
+    ],
+    "correct": "Adiós",
+    "explanation": "'Adiós' is the correct way to say 'Goodbye' in Spanish. 'Hola' means hello, 'Gracias' means thank you, and 'Por favor' means please.",
+    "category": "Greetings",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120018",
+    "question": "What is the Spanish word for 'water'?",
+    "answers": [
+      "Pan",
+      "Leche",
+      "Agua",
+      "Vino"
+    ],
+    "correct": "Agua",
+    "explanation": "The Spanish word for 'water' is 'agua'. 'Pan' means bread, 'leche' means milk, and 'vino' means wine.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120019",
+    "question": "Which of the following is the correct conjugation of the verb 'ir' (to go) in the present tense for 'nosotros' (we)?",
+    "answers": [
+      "Voy",
+      "Vas",
+      "Vamos",
+      "Van"
+    ],
+    "correct": "Vamos",
+    "explanation": "The correct conjugation of 'ir' in the present tense for 'nosotros' (we) is 'vamos'. This is an irregular verb conjugation.",
+    "category": "Verb Conjugation",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120020",
+    "question": "What is the correct way to ask 'Where is the bathroom?' in Spanish?",
+    "answers": [
+      "¿Dónde está el baño?",
+      "¿Cuándo es el baño?",
+      "¿Por qué es el baño?",
+      "¿Cómo está el baño?"
+    ],
+    "correct": "¿Dónde está el baño?",
+    "explanation": "The correct way to ask 'Where is the bathroom?' in Spanish is '¿Dónde está el baño?'. 'Dónde' means 'where', 'está' is a form of 'to be', and 'el baño' means 'the bathroom'.",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120021",
+    "question": "Which of the following is NOT a Spanish number?",
+    "answers": [
+      "Diez",
+      "Veinte",
+      "Treinta",
+      "Cuarto"
+    ],
+    "correct": "Cuarto",
+    "explanation": "'Cuarto' is not a Spanish number; it means 'quarter' or 'fourth'. 'Diez' means ten, 'veinte' means twenty, and 'treinta' means thirty.",
+    "category": "Numbers",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120022",
+    "question": "What is the Spanish word for 'family'?",
+    "answers": [
+      "Amigo",
+      "Familia",
+      "Casa",
+      "Escuela"
+    ],
+    "correct": "Familia",
+    "explanation": "The Spanish word for 'family' is 'familia'. 'Amigo' means friend, 'casa' means house, and 'escuela' means school.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120023",
+    "question": "Which of the following is the correct way to say 'I am from the United States' in Spanish?",
+    "answers": [
+      "Soy de los Estados Unidos",
+      "Estoy de los Estados Unidos",
+      "Tengo de los Estados Unidos",
+      "Voy de los Estados Unidos"
+    ],
+    "correct": "Soy de los Estados Unidos",
+    "explanation": "The correct way to say 'I am from the United States' in Spanish is 'Soy de los Estados Unidos'. We use 'ser' (soy) for permanent characteristics like origin, not 'estar' (estoy).",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120024",
+    "question": "What is the Spanish word for 'table'?",
+    "answers": [
+      "Silla",
+      "Mesa",
+      "Cama",
+      "Sofá"
+    ],
+    "correct": "Mesa",
+    "explanation": "The Spanish word for 'table' is 'mesa'. 'Silla' means chair, 'cama' means bed, and 'sofá' means sofa.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120025",
+    "question": "Which of the following is the correct plural form of 'mujer' (woman)?",
+    "answers": [
+      "Mujers",
+      "Mujeres",
+      "Mujerres",
+      "Mujer"
+    ],
+    "correct": "Mujeres",
+    "explanation": "The correct plural form of 'mujer' is 'mujeres'. This is an irregular plural form in Spanish.",
+    "category": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120026",
+    "question": "What is the Spanish equivalent of the English phrase 'Nice to meet you'?",
+    "answers": [
+      "Buenos días",
+      "Mucho gusto",
+      "Hasta luego",
+      "Qué tal"
+    ],
+    "correct": "Mucho gusto",
+    "explanation": "The Spanish equivalent of 'Nice to meet you' is 'Mucho gusto'. Literally, it means 'much pleasure', but it's used as a polite greeting when meeting someone for the first time.",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120027",
+    "question": "Which of the following is NOT a day of the week in Spanish?",
+    "answers": [
+      "Lunes",
+      "Martes",
+      "Semana",
+      "Domingo"
+    ],
+    "correct": "Semana",
+    "explanation": "'Semana' is not a day of the week; it means 'week'. 'Lunes' is Monday, 'Martes' is Tuesday, and 'Domingo' is Sunday.",
+    "category": "Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120028",
+    "question": "What is the correct way to say 'I like pizza' in Spanish?",
+    "answers": [
+      "Me gusta la pizza",
+      "Yo gusto la pizza",
+      "A mí gusta la pizza",
+      "Gusta la pizza"
+    ],
+    "correct": "Me gusta la pizza",
+    "explanation": "The correct way to say 'I like pizza' in Spanish is 'Me gusta la pizza'. In Spanish, we use the construction 'gustar' + subject, which literally translates to 'Pizza is pleasing to me'.",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120029",
+    "question": "Which of the following is the correct conjugation of the verb 'tener' (to have) in the present tense for 'tú' (you informal)?",
+    "answers": [
+      "Tengo",
+      "Tienes",
+      "Tiene",
+      "Tenemos"
+    ],
+    "correct": "Tienes",
+    "explanation": "The correct conjugation of 'tener' in the present tense for 'tú' (you informal) is 'tienes'. This is an irregular verb conjugation.",
+    "category": "Verb Conjugation",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120030",
+    "question": "What is the Spanish word for 'yes'?",
+    "answers": [
+      "No",
+      "Si",
+      "Sí",
+      "Se"
+    ],
+    "correct": "Sí",
+    "explanation": "The Spanish word for 'yes' is 'sí' (with an accent). 'Si' without an accent means 'if'. 'No' means no, and 'se' is a reflexive pronoun.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "questionId": "SPN1120031",
+    "question": "Which of the following is the correct way to ask 'How old are you?' in Spanish?",
+    "answers": [
+      "¿Cuántos años tienes?",
+      "¿Qué edad eres?",
+      "¿Cuál es tu edad?",
+      "¿Cuándo es tu cumpleaños?"
+    ],
+    "correct": "¿Cuántos años tienes?",
+    "explanation": "The most common way to ask 'How old are you?' in Spanish is '¿Cuántos años tienes?', which literally translates to 'How many years do you have?'",
+    "category": "Expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "questionId": "SPN1120032",
+    "question": "What is the Spanish word for 'please'?",
+    "answers": [
+      "Gracias",
+      "De nada",
+      "Por favor",
+      "Lo siento"
+    ],
+    "correct": "Por favor",
+    "explanation": "The Spanish word for 'please' is 'por favor'. 'Gracias' means thank you, 'de nada' means you're welcome, and 'lo siento' means I'm sorry.",
+    "category": "Vocabulary",
+    "difficulty": "Easy"
+  }
+]
