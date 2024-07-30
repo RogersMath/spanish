@@ -7,3 +7,6 @@ https://creativecommons.org/licenses/by/4.0/deed.en
 
 Royalty Free Music by Paolo Argento from Pixabay
 https://pixabay.com/music/corporate-quiz-countdown-194417/
+
+Image Credit
+By Diego Velázquez - The Prado in Google Earth: Home - 7th level of zoom, JPEG compression quality: Photoshop 8., Public Domain, https://commons.wikimedia.org/w/index.php?curid=22600614
