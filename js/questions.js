@@ -1,5 +1,5 @@
 const allQuestions = {
-    JavaScript: null
+    SPN1120: null
 };
 
 async function loadQuestionLibrary(libraryName) {
